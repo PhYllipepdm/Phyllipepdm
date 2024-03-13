@@ -34,6 +34,10 @@ Olá! 👋 Meu nome é Felipe Emanoel e sou um entusiasta da tecnologia apaixona
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhYllipepdm&layout=compact&theme=dracula" alt="Top Langs" height="180px">
 </p>
 
- ![Snake animation](https://github.com/PhYllipepdm/PhYllipepdm/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhYllipepdm/PhYllipepdm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhYllipepdm/PhYllipepdm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PhYllipepdm/PhYllipepdm/output/github-contribution-grid-snake.svg">
+</picture>
 
 
